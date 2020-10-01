@@ -2,12 +2,12 @@
 
 # Created by Marcus A. Mosley
 # Created on September 2020
-# This program finds the averasge of three integers,
+# This program finds the average of three integers,
 #     only if they are between 0-100 inclusive
 
 
 def main():
-    # This function finds the averasge of three integers,
+    # This function finds the average of three integers,
     #     only if they are between 0-100 inclusive
 
     # Input
